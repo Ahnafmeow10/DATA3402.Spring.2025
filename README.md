@@ -2,7 +2,8 @@
 
 This project is from a Kaggle challenge called [Playground Series - Season 4, Episode 1](https://www.kaggle.com/competitions/playground-series-s4e1).
 
-The goal is to predict if a customer will leave a bank or not. This is called customer churn. We are given a dataset with information about each customer, like their credit score, age, country, gender, how long they’ve been with the bank, and their account details. The column we want to predict is called `Exited`. It shows 1 if the customer left, and 0 if they stayed. We train a machine learning model using this data and make predictions for new customers.
+This project is part of the Kaggle Playground Series - Season 4, Episode 1. The goal is to predict customer churn — whether a customer will leave a bank or not. The dataset includes features such as credit score, age, country, gender, tenure, account balance, number of products, credit card ownership, activity status, and estimated salary. The target variable, "Exited", indicates whether a customer has left (1) or stayed (0). By training a machine learning model on this data, we aim to identify customers who are likely to leave, helping the bank take proactive steps to improve customer retention.
+
 
 ## Data Loading and Initial Look
 
